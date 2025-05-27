@@ -1,11 +1,9 @@
 
 # Top 10 Countries by GDP per Capita (Current USD) with Populations Greater than 100M 
 
-Countries with populations exceeding 100 million and high GDP per capita are unique because they manage to combine large population sizes with substantial economic productivity per person. Currently, there are only a few countries that fit this profile. Here's an analysis of their strengths and weaknesses:
+Countries with populations exceeding 100 million and high GDP per capita are unique because they manage to combine large population sizes with substantial economic productivity per person. Currently, there are only a few countries that fit this profile. Here's a chart highlighting the top 10 countries by GDP per capita (current USD) with a population greater than 100M people. Additionally, you will find their strengths and weaknesses,
 
 ![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/82ea708fa125fcc4843c3033280d5aa24bdb3658/Top%2010%20Countries%20by%20GDP%20per%20Capita%20-%20Large%20Countries.png)
-
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
 # United States
 ## •	Strengths:
