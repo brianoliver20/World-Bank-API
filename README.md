@@ -3,6 +3,8 @@
 
 Countries with populations exceeding 100 million and high GDP per capita are unique because they manage to combine large population sizes with substantial economic productivity per person. Currently, there are only a few countries that fit this profile. Here's an analysis of their strengths and weaknesses:
 
+https://github.com/brianoliver20/World-Bank-API/blob/ae7cf4b9a63c4fa4c18b75a30a2d8487174990a2/Top%2010%20Countries%20by%20GDP%20per%20Capita%20(Large%20Countries).png
+
 # United States
 ## •	Strengths:
 
