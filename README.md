@@ -1,10 +1,12 @@
 # NATO Military Expenditure as Percent of GDP from 2014 to 2023
 
-In recent years, the global landscape of military expenditure has evolved, reflecting shifting geopolitical priorities and economic realities. Military spending, as a percentage of GDP, is a critical indicator of how nations allocate resources for defense relative to their overall economic output. This analysis examines the military expenditures of eight countries in 2014 and 2023, all of which had a total GDP exceeding 1 trillion USD in 2023. By comparing these two years, we can discern trends in defense priorities across major economies.
+In recent years, the global landscape of military expenditure has evolved, reflecting shifting geopolitical priorities and economic realities. Military spending, as a percentage of GDP, is a critical indicator of how nations allocate resources for defense relative to their overall economic output. In 2014, NATO declared its intention to increase member nations' defense spending to at least 2% of their GDP by 2024, a move aimed at strengthening collective security amid growing global threats. This analysis examines the military expenditures of eight countries in 2014 and 2023, all of which had a total GDP exceeding 1 trillion USD in 2023. By comparing these two years, we can discern trends in defense priorities across major economies.
 
 ![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202014.png)
+The first graph illustrates the 2014 military expenditure as a percentage of GDP, highlighting initial levels of defense spending among these nations. 
 
 ![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023.png)
+The second graph depicts the 2023 data, showcasing the progress and adjustments in military expenditure in response to NATO commitments and evolving global security dynamics.
 
 # United States
 The United States has consistently allocated a significant portion of its GDP to military spending. In 2014, military expenditure accounted for 3.68% of GDP. By 2023, this figure had slightly decreased to 3.36%, indicating a modest reduction in relative defense spending. Despite this decline, the United States continues to lead globally in absolute military expenditure, maintaining its position as a dominant military power. The U.S. is home to prominent defense companies like Lockheed Martin, Boeing, and Raytheon, which produce cutting-edge technologies such as the F-35 fighter jet, Patriot missile systems, and advanced radar systems.
