@@ -1,92 +1,31 @@
+# NATO Military Expenditure as Percent of GDP from 2014 to 2023
 
-# Top Five Countries by GDP per Capita (Current USD) with Populations Greater than 100M (2023)
+In recent years, the global landscape of military expenditure has evolved, reflecting shifting geopolitical priorities and economic realities. Military spending, as a percentage of GDP, is a critical indicator of how nations allocate resources for defense relative to their overall economic output. This analysis examines the military expenditures of eight countries in 2014 and 2023, all of which had a total GDP exceeding 1 trillion USD in 2023. By comparing these two years, we can discern trends in defense priorities across major economies.
 
-Countries with high GDP per capita are vital to the global economy, combining substantial economic productivity with the ability to influence international markets and maintain high standards of living. Based on 2023 World Bank data, five countries with populations exceeding 100 million stand out for their exceptional GDP per capita: the United States, Japan, Russia, Mexico, and China. These nations navigate unique economic landscapes shaped by their strengths—such as innovation, advanced manufacturing, and resource wealth—and challenges like demographic shifts, inequality, and fiscal pressures. Below is a detailed examination of the key strengths and weaknesses of each country, providing valuable insights into their economic structures and global roles.
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202014.png)
 
-![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/b66fe1b5cf2b0ec3a6b2f6dd0822caf7d1fcc258/Top%20Five%20Large%20Countries%20by%20GDP%20per%20Capita.png)
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023.png)
 
 # United States
-## •	Strengths:
+The United States has consistently allocated a significant portion of its GDP to military spending. In 2014, military expenditure accounted for 3.68% of GDP. By 2023, this figure had slightly decreased to 3.36%, indicating a modest reduction in relative defense spending. Despite this decline, the United States continues to lead globally in absolute military expenditure, maintaining its position as a dominant military power. The U.S. is home to prominent defense companies like Lockheed Martin, Boeing, and Raytheon, which produce cutting-edge technologies such as the F-35 fighter jet, Patriot missile systems, and advanced radar systems.
 
-o	Economic Diversity: The U.S. economy excels in technology, finance, healthcare, and manufacturing, creating resilience across multiple sectors.
+# United Kingdom
+The United Kingdom saw a slight increase in military spending as a percentage of GDP, rising from 2.18% in 2014 to 2.26% in 2023. This uptick reflects the country's commitment to maintaining a robust defense posture amid changing security dynamics, particularly in the context of European and transatlantic alliances. The UK specializes in naval technologies and advanced aerospace systems, with companies like BAE Systems and Rolls-Royce producing notable products such as the Queen Elizabeth-class aircraft carriers and advanced jet engines.
 
-o	Innovation Leadership: Home to global tech giants and advanced research institutions, the U.S. is a leader in innovation and productivity.
+# France
+France’s military expenditure grew from 1.86% of GDP in 2014 to 2.06% in 2023. This increase underscores France’s emphasis on strengthening its military capabilities, likely driven by its role in global peacekeeping missions and its leadership within the European Union. France is known for its advanced defense technologies, with companies like Dassault Aviation and Thales producing renowned products such as the Rafale fighter jet and advanced defense electronics systems.
 
-o	Consumer Market: A large middle class drives substantial domestic consumption, a cornerstone of GDP growth.
+# Italy
+Italy experienced a notable rise in military spending, with its allocation increasing from 1.28% of GDP in 2014 to 1.61% in 2023. This growth suggests a heightened focus on defense modernization and addressing security challenges within the Mediterranean region. Italy’s defense sector is characterized by its excellence in naval shipbuilding and aerospace, with companies like Leonardo and Fincantieri producing the Eurofighter Typhoon components and advanced naval vessels.
 
-## •	Weaknesses:
+# Spain
+Spain’s military expenditure rose from 1.25% of GDP in 2014 to 1.51% in 2023. This gradual increase highlights Spain’s efforts to enhance its defense capabilities while aligning with NATO commitments. Spain is recognized for its shipbuilding and armored vehicle production, with companies like Navantia producing advanced naval ships and Santa Bárbara Sistemas manufacturing infantry fighting vehicles.
 
-o	Income Inequality: Significant disparities in income and wealth distribution limit the overall quality of life for a portion of the population.
+# Netherlands
+The Netherlands exhibited a significant rise in military spending, increasing from 1.16% of GDP in 2014 to 1.53% in 2023. This change reflects a strategic decision to bolster defense readiness and meet NATO’s recommended spending benchmarks. The Netherlands is known for its expertise in cybersecurity and radar technologies, with companies like Thales Nederland leading in the development of cutting-edge radar systems and defense electronics.
 
-o	Rising Costs: Healthcare, education, and housing costs continue to increase, placing financial strain on households.
+# Germany
+Germany’s military expenditure grew from 1.15% of GDP in 2014 to 1.52% in 2023. This increase signifies a strategic shift, as Germany invests more in defense to address regional and global security concerns, particularly in light of evolving European security dynamics. Germany is renowned for its engineering excellence in armored vehicles and submarines, with companies like Rheinmetall producing Leopard tanks and ThyssenKrupp Marine Systems developing advanced submarines.
 
-o	Fiscal Challenges: High national debt could pose risks to long-term economic stability.
-________________________________________
-# Japan
-## •	Strengths:
-
-o	Advanced Manufacturing: Renowned for high-quality automobile production, robotics, and electronics, Japan maintains global competitiveness.
-
-o	Technological Prowess: Investments in research and development ensure leadership in cutting-edge technologies.
-
-o	Export-Oriented Economy: Japan’s strong export sector contributes significantly to GDP, supported by well-established trade networks.
-
-## •	Weaknesses:
-
-o	Aging Population: With one of the oldest populations in the world, Japan faces labor shortages and rising social security costs.
-
-o	Public Debt: High levels of public debt constrain fiscal policy flexibility and pose risks to future economic growth.
-
-o	Limited Domestic Consumption: The declining population affects domestic market size and consumption growth.
-________________________________________
-# Russia
-## •	Strengths:
-
-o	Natural Resources: Abundance of oil, natural gas, and minerals underpins Russia’s GDP and energy exports.
-
-o	Strategic Geography: Proximity to Europe and Asia offers opportunities for trade and energy exports to key markets.
-
-o	Resilient Economy: Despite international sanctions, Russia’s economy has adapted by focusing on domestic production and alternative markets.
-
-## •	Weaknesses:
-
-o	Economic Dependence on Energy: Heavy reliance on oil and gas makes Russia’s economy vulnerable to fluctuations in global energy prices.
-
-o	Sanctions and Isolation: International sanctions limit access to foreign capital, technology, and markets.
-
-o	Demographic Decline: A shrinking and aging population poses long-term risks to workforce availability and economic growth.
-________________________________________
-# Mexico
-## •	Strengths:
-
-o	Manufacturing Hub: Proximity to the U.S. and Canada, combined with trade agreements like USMCA, positions Mexico as a key player in automotive and electronics manufacturing.
-
-o	Growing Economy: A steadily growing middle class is driving domestic consumption and demand for goods and services.
-
-o	Rich Resources: Mexico has diverse natural resources, including oil, minerals, and agricultural products, supporting various sectors of the economy.
-
-## •	Weaknesses:
-
-o	Corruption and Crime: Endemic corruption and organized crime increase risks for investors and strain government resources.
-
-o	Inequality: Significant income disparities between regions and populations limit widespread economic benefits.
-
-o	Dependency on the U.S.: Heavy reliance on the U.S. market for exports makes Mexico vulnerable to external shocks in its largest trading partner.
-________________________________________
-# China
-## •	Strengths:
-
-o	Industrial Powerhouse: As the world’s largest manufacturing economy, China benefits from economies of scale and global trade dominance.
-
-o	Infrastructure Investments: Massive investments in transport, energy, and digital infrastructure boost productivity and connectivity.
-
-o	Economic Transition: China is gradually shifting towards a consumption-driven economy, reducing reliance on exports and heavy industry.
-
-## •	Weaknesses:
-
-o	Aging Population: The rapid demographic shift due to the one-child policy presents challenges for labor force sustainability and healthcare systems.
-
-o	Economic Inequality: Significant urban-rural and regional disparities create uneven development.
-
-o	Geopolitical Pressures: Trade tensions, particularly with the U.S., and increased global scrutiny impact economic stability and international relations.
-
+# Canada
+Canada increased its military spending from 0.99% of GDP in 2014 to 1.29% in 2023. Although still below NATO’s recommended target of 2%, this rise represents a concerted effort to strengthen Canada’s defense contributions within the alliance and address emerging security threats. Canada is known for its aerospace and communications systems, with companies like Bombardier Aerospace and General Dynamics Land Systems producing advanced aircraft components and armored vehicles.
