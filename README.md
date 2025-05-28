@@ -20,7 +20,7 @@ Bangladesh’s economy thrived due to its booming garment and textile industry, 
 # Russia (9.33% CAGR)
 Russia’s growth was largely driven by its energy sector, particularly oil and gas exports, which benefited from rising global commodity prices in the early 2000s. Investments in technology and defense sectors also contributed to economic diversification. Strategic trade partnerships and export-driven policies helped bolster its economy. Despite challenges like sanctions and fluctuating oil prices, strong domestic demand and reforms in key industries supported consistent growth.
 
-#CAGR DAX Formula
+# CAGR DAX Formula
 
 To calculate the Compound Annual Growth Rate (CAGR) for countries with populations exceeding 100 million as of 2023, I utilized population data from 2023 and GDP data spanning 2000-2023, both sourced through an API connection from the World Bank to Power BI. This streamlined data extraction ensured up-to-date and accurate information for analysis. Using Power BI, I visualized the data to identify growth trends and employed Data Analysis Expressions (DAX) to compute the CAGR. The CAGR formula, defined as (FV / PV)^(1/n) - 1, where FV is the GDP in 2023, PV is the GDP in 2000, and n is the 23-year period, was implemented in DAX. This setup allowed me to dynamically calculate and compare CAGR across countries efficiently, leveraging automation to enhance both the precision and scalability of the analysis.
 
