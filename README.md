@@ -39,7 +39,7 @@ The military expenditures of NATO members with GDPs less than 1 trillion USD in 
 ![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/cc7787d2696ef797789ecf666d53ef0873d7d890/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202014%20(Countries%20w%20Less%20Than%201T%20GDP).png)
 The third graph illustrates the military expenditure of these countries in 2014, showing their initial defense spending as a percentage of GDP.
 
-![Dashboard_upload]([https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023.png](https://github.com/brianoliver20/World-Bank-API/blob/cc7787d2696ef797789ecf666d53ef0873d7d890/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023%20(Countries%20w%20Less%20Than%201T%20GDP).png))
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/cc7787d2696ef797789ecf666d53ef0873d7d890/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023%20(Countries%20w%20Less%20Than%201T%20GDP).png)
 The fourth graph highlights the 2023 data, showcasing the substantial increases in spending as nations adapted to heightened security demands and NATO benchmarks.
 
 # Poland
