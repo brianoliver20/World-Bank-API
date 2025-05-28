@@ -1,7 +1,7 @@
 
-# Top Five Countries by GDP per Capita (Current USD) with Populations Greater than 100M 
+# Top Five Countries by CAGR with Populations Greater than 100M 
 
-Countries with populations exceeding 100 million and high GDP per capita are unique because they manage to combine large population sizes with substantial economic productivity per person. Currently, there are only a few countries that fit this profile. Here's a chart highlighting the top 10 countries by GDP per capita (current USD) with a population greater than 100M people. Additionally, you will find their strengths and weaknesses,
+The Compound Annual Growth Rate (CAGR) is a vital metric for evaluating the consistent economic performance of large countries with populations exceeding 100 million. These nations often represent a significant share of global economic activity, and their growth trajectories can influence regional and international markets. By measuring the smoothed annual growth rate over a specific period, CAGR provides a clear picture of economic expansion, accounting for fluctuations that may occur year to year. For countries with large populations, high CAGRs indicate successful strategies in leveraging their demographic advantage, fostering industries, attracting investments, and enhancing productivity. Understanding these growth patterns is essential for policymakers, investors, and global organizations aiming to identify opportunities, assess risks, and drive sustainable development in an increasingly interconnected world.
 
 ![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/7e3f872f3a221bec6c2f604385df86775530c3a2/Top%205%20Countries%20by%20GDP%20per%20Capita%20-%20Large%20Countries.png)
 
