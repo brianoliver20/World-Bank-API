@@ -2,10 +2,10 @@
 
 In recent years, the global landscape of military expenditure has evolved, reflecting shifting geopolitical priorities and economic realities. Military spending, as a percentage of GDP, is a critical indicator of how nations allocate resources for defense relative to their overall economic output. In 2014, NATO declared its intention to increase member nations' defense spending to at least 2% of their GDP by 2024, a move aimed at strengthening collective security amid growing global threats. This analysis examines the military expenditures of eight countries in 2014 and 2023, all of which had a total GDP exceeding 1 trillion USD in 2023. By comparing these two years, we can discern trends in defense priorities across major economies.
 
-![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/cc7787d2696ef797789ecf666d53ef0873d7d890/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202014.png)
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/97ca20a0459aa4d79970f9568c1c98fe305fdb04/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202014.png)
 The first graph illustrates the 2014 military expenditure as a percentage of GDP of the eight NATO countries with 2023 GDP exceeding $1T (Current USD). 
 
-![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/cc7787d2696ef797789ecf666d53ef0873d7d890/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023.png)
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/97ca20a0459aa4d79970f9568c1c98fe305fdb04/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023.png)
 The second graph illustrates the 2014 military expenditure as a percentage of GDP of the eight NATO countries with 2023 GDP exceeding $1T (Current USD).
 
 ## United States
