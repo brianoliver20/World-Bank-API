@@ -31,3 +31,43 @@ Germany’s military expenditure grew from 1.15% of GDP in 2014 to 1.52% in 2023
 
 # Canada
 Canada increased its military spending from 0.99% of GDP in 2014 to 1.29% in 2023. Although still below NATO’s recommended target of 2%, this rise represents a concerted effort to strengthen Canada’s defense contributions within the alliance and address emerging security threats. Canada is known for its aerospace and communications systems, with companies like Bombardier Aerospace and General Dynamics Land Systems producing advanced aircraft components and armored vehicles.
+
+
+# NATO Members with GDPs Less Than 1 Trillion USD in 2023
+The military expenditures of NATO members with GDPs less than 1 trillion USD in 2023 reveal significant changes in defense prioritization, especially in the context of NATO’s 2% GDP target. These nations demonstrate diverse approaches to meeting their defense obligations, reflecting both regional security concerns and economic capacities.
+
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202014.png)
+The third graph illustrates the military expenditure of these countries in 2014, showing their initial defense spending as a percentage of GDP.
+
+![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/da6a942c782ee54da73e99f57deec7e684d8c140/NATO%20Military%20Expenditure%20as%20Percent%20of%20GDP%20in%202023.png)
+The fourth graph highlights the 2023 data, showcasing the substantial increases in spending as nations adapted to heightened security demands and NATO benchmarks.
+
+# Poland
+Poland’s military expenditure surged from 1.92% of GDP in 2014 to 3.83% in 2023, reflecting a robust response to regional security concerns, particularly in Eastern Europe. Poland has focused on modernizing its armed forces, acquiring advanced systems like the Patriot missile defense system and Abrams tanks from U.S. manufacturers, and bolstering its domestic defense industry.
+
+# Greece
+Greece increased its military spending from 2.35% of GDP in 2014 to 3.23% in 2023, maintaining one of the highest levels of defense spending among NATO members relative to GDP. This commitment is driven by longstanding regional tensions and a focus on naval and air force capabilities, supported by companies like Hellenic Aerospace Industry.
+
+# Estonia
+Estonia’s military expenditure rose from 1.93% of GDP in 2014 to 2.87% in 2023. Estonia prioritizes cybersecurity and territorial defense, collaborating with allies to develop advanced technology systems. Its investments include air defense systems and partnerships with NATO for training and development.
+
+# Lithuania
+Lithuania dramatically increased its military spending from 0.88% of GDP in 2014 to 2.72% in 2023. This growth underscores Lithuania’s focus on strengthening its defensive posture against potential regional threats. Notable investments include procurement of HIMARS rocket systems and modernization of infantry equipment.
+
+# Finland
+Finland, which joined NATO in 2023, increased its military spending from 1.45% of GDP in 2014 to 2.42% in 2023. Known for its advanced artillery systems and strong reserve forces, Finland has invested in F-35 fighter jets and modernized its surveillance and defense systems to align with NATO standards.
+
+# Latvia
+Latvia’s defense spending grew from 0.94% of GDP in 2014 to 2.27% in 2023. Latvia focuses on rapid response capabilities and allied interoperability, investing in armored vehicles and air defense systems while enhancing training and infrastructure with NATO support.
+
+# Hungary
+Hungary increased its military expenditure from 0.86% of GDP in 2014 to 2.13% in 2023. Hungary’s defense priorities include modernizing its air force and armored capabilities, acquiring Gripen fighter jets and Leopard tanks, and supporting its domestic defense industry.
+
+# Denmark
+Denmark raised its military spending from 1.15% of GDP in 2014 to 1.95% in 2023. Known for its maritime expertise, Denmark invests heavily in naval capabilities, including advanced frigates and support for NATO missions in the North Atlantic region.
+
+# Bulgaria
+Bulgaria’s defense spending increased from 1.31% of GDP in 2014 to 1.85% in 2023. Bulgaria focuses on modernizing its armed forces, including the acquisition of F-16 fighter jets and upgrades to its ground forces, while fostering regional partnerships.
+
+# Croatia
+Croatia’s military expenditure grew modestly from 1.82% of GDP in 2014 to 1.78% in 2023. Despite the slight decrease, Croatia emphasizes defense readiness and modernization, investing in Black Hawk helicopters and coastal defense systems to bolster national security.
