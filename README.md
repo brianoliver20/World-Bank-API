@@ -1,7 +1,7 @@
 
-# Top Five Countries by GDP per Capita (Current USD) with Populations Greater than 100M 
+# Top Five Countries by GDP per Capita (Current USD) with Populations Greater than 100M (2023)
 
-Countries with populations exceeding 100 million and high GDP per capita are unique because they manage to combine large population sizes with substantial economic productivity per person. Currently, there are only a few countries that fit this profile. Here's a chart highlighting the top 10 countries by GDP per capita (current USD) with a population greater than 100M people. Additionally, you will find their strengths and weaknesses,
+This repository features a Power BI visualization based on World Bank data, highlighting the strengths and weaknesses of five countries with populations exceeding 100 million and the highest GDP per capita in this demographic group as of 2023: the United States, Japan, Russia, Mexico, and China. The chart examines critical economic factors, such as innovation, resource management, and fiscal policies, while addressing challenges like demographic shifts, income inequality, and geopolitical dynamics. By comparing these nations, this project provides valuable insights into their economic performance and global impact. Countries with populations exceeding 100 million and high GDP per capita are unique because they manage to combine large population sizes with substantial economic productivity per person. 
 
 ![Dashboard_upload](https://github.com/brianoliver20/World-Bank-API/blob/b66fe1b5cf2b0ec3a6b2f6dd0822caf7d1fcc258/Top%20Five%20Large%20Countries%20by%20GDP%20per%20Capita.png)
 
